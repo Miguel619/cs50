@@ -4,11 +4,11 @@ From Harvard CS50 [Open CourseWare](https://cs50.harvard.edu/x/2021/)
 
 | Assignment                   |    Status     |     Language    |
 | ---------------------------- | ------------- | --------------- |
-| [Hello](https://cs50.harvard.edu/x/2021/psets/1/hello/)                | Done.         |         C       | 
-| [Mario (Less)](https://cs50.harvard.edu/x/2021/psets/1/mario/less/)                | Done.         |         C       |         
-| [Mario (More)](https://cs50.harvard.edu/x/2021/psets/1/mario/more/)                | Done.         |         C       |
-| [Cash](https://cs50.harvard.edu/x/2021/psets/1/cash/)                | Done.         |         C       |
-| [Credit](https://cs50.harvard.edu/x/2021/psets/1/credit/)                | Done.         |         C       |
+| [Hello](https://cs50.harvard.edu/x/2021/psets/1/hello/)                | Done         |         C       | 
+| [Mario (Less)](https://cs50.harvard.edu/x/2021/psets/1/mario/less/)                | Done         |         C       |         
+| [Mario (More)](https://cs50.harvard.edu/x/2021/psets/1/mario/more/)                | Done         |         C       |
+| [Cash](https://cs50.harvard.edu/x/2021/psets/1/cash/)                | Done         |         C       |
+| [Credit](https://cs50.harvard.edu/x/2021/psets/1/credit/)                | Done         |         C       |
 
 
  Link From [Harvard](https://cs50.harvard.edu/college/2020/fall/psets/)
