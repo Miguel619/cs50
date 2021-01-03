@@ -1,4 +1,4 @@
-### Problem Set 1:
+# Problem Set 1:
 From Harvard CS50 [Open CourseWare](https://cs50.harvard.edu/x/2021/)
 
 
