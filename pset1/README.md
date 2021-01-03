@@ -11,15 +11,25 @@ From Harvard CS50 [Open CourseWare](https://cs50.harvard.edu/x/2021/)
 | [Credit](https://cs50.harvard.edu/x/2021/psets/1/credit/)                | not completed |         C       |
 
 
-### Link From [Harvard](https://cs50.harvard.edu/college/2020/fall/psets/)
+ Link From [Harvard](https://cs50.harvard.edu/college/2020/fall/psets/)
 
-### [Hello](https://cs50.harvard.edu/x/2021/psets/1/hello/)
+## [Hello](https://cs50.harvard.edu/x/2021/psets/1/hello/)
+Prompt user for `name` and print `Hello (name)`
+## [Mario (Less)](https://cs50.harvard.edu/x/2021/psets/1/mario/less/)
+Prompt user for `pyrimid height` and print a pyrimid of the height entered
+```
+Enter Height: 5
+```
+```
+#
+##
+###
+####
+#####
+```
+## [Mario (More)](https://cs50.harvard.edu/x/2021/psets/1/mario/more/)
 // TODO
-### [Mario (Less)](https://cs50.harvard.edu/x/2021/psets/1/mario/less/)
+## [Cash](https://cs50.harvard.edu/x/2021/psets/1/cash/)
 // TODO
-### [Mario (More)](https://cs50.harvard.edu/x/2021/psets/1/mario/more/)
-// TODO
-### [Cash](https://cs50.harvard.edu/x/2021/psets/1/cash/)
-// TODO
-### [Credit](https://cs50.harvard.edu/x/2021/psets/1/credit/)
+## [Credit](https://cs50.harvard.edu/x/2021/psets/1/credit/)
 // TODO
