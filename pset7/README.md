@@ -30,26 +30,26 @@ From Harvard CS50 [Open CourseWare](https://cs50.harvard.edu/x/2021/)
     - [Substitution](https://cs50.harvard.edu/x/2021/psets/2/substitution/)
 3.  Problem Set 3
     - [Plurality](https://cs50.harvard.edu/x/2021/psets/3/plurality/)
-    - [Runoff]()
-    - [Tideman]()
+    - [Runoff](https://cs50.harvard.edu/x/2021/psets/3/runoff/)
+    - [Tideman](https://cs50.harvard.edu/x/2021/psets/3/tideman/)
 4.  Problem Set 4
-    - Filter (Less)
-    - Filter (More)
-    - Recover
+    - [Filter(Less)](https://cs50.harvard.edu/x/2021/psets/4/filter/less/)
+    - [Filter(More)](https://cs50.harvard.edu/x/2021/psets/4/filter/more/)
+    - [Recover](https://cs50.harvard.edu/x/2021/psets/4/recover/)
 5.  Problem Set 5
-    - Speller
+    - [Speller](https://cs50.harvard.edu/x/2021/psets/5/speller/)
 6.  Problem Set 6
-    - Sentimental (Hello)
-    - Sentimental (Mario Less)
-    - Sentimental (Mario More)
-    - Sentimental (Cash)
-    - Sentimental (Credit)
-    - Sentimental (Readability)
-    - DNA
+    - [Sentimental (Hello)](https://cs50.harvard.edu/x/2021/psets/6/hello/)
+    - [Sentimental (Mario Less)](https://cs50.harvard.edu/x/2021/psets/6/mario/less/)
+    - [Sentimental (Mario More)](https://cs50.harvard.edu/x/2021/psets/6/mario/more/)
+    - [Sentimental (Cash)](https://cs50.harvard.edu/x/2021/psets/6/cash/)
+    - [Sentimental (Credit)](https://cs50.harvard.edu/x/2021/psets/6/credit/)
+    - [Sentimental (Readability)](https://cs50.harvard.edu/x/2021/psets/6/readability/)
+    - [DNA](https://cs50.harvard.edu/x/2021/psets/6/dna/)
 7.  Problem Set 7
-    - Movies
-Fiftyville
+    - [Movies](https://cs50.harvard.edu/x/2021/psets/7/movies/)
+    - [Fiftyville](https://cs50.harvard.edu/x/2021/psets/7/fiftyville/)
 8.  Problem Set 8
-    - Missing
+    - [Homepage](https://cs50.harvard.edu/x/2021/psets/8/homepage/)
 9.  Problem Set 9
-    - Finance
+    - [Finance](https://cs50.harvard.edu/x/2021/psets/9/finance/)
