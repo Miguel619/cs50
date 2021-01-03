@@ -42,6 +42,18 @@ Height: 7
 #######  #######
 ```
 ## [Cash](https://cs50.harvard.edu/x/2021/psets/1/cash/)
-// TODO
+Prompt user for `change` amount and print minimum amount of `coins` needed to form that change.
+```
+Change owed: 2.10
+```
+```
+Coins: 9
+```
 ## [Credit](https://cs50.harvard.edu/x/2021/psets/1/credit/)
-// TODO
+Prompt the user for a credit card number and print if the card is a valid card and it's type
+```
+Number: 4003600000000014
+```
+```
+VISA
+```
