@@ -1,0 +1,3 @@
+declare height
+take user input and initialize to height
+recursively print # to user height

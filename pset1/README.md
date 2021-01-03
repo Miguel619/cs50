@@ -28,7 +28,19 @@ Enter Height: 5
 #####
 ```
 ## [Mario (More)](https://cs50.harvard.edu/x/2021/psets/1/mario/more/)
-// TODO
+Prompt user for `pyrimid height` and print two pyrimids of the height entered
+```
+Height: 7
+```
+```
+      #  #
+     ##  ##
+    ###  ###
+   ####  ####
+  #####  #####
+ ######  ######
+#######  #######
+```
 ## [Cash](https://cs50.harvard.edu/x/2021/psets/1/cash/)
 // TODO
 ## [Credit](https://cs50.harvard.edu/x/2021/psets/1/credit/)
