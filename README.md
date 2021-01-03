@@ -19,19 +19,19 @@ From Harvard CS50 [Open CourseWare](https://cs50.harvard.edu/x/2021/)
 
 ### Link From [Harvard](https://cs50.harvard.edu/college/2020/fall/psets/)
 1.  Problem Set 1
-    - Hello
-    - Mario (Less)
-    - Mario (More)
-    - Cash
-    - Credit
+    - [Hello](https://cs50.harvard.edu/x/2021/psets/1/hello/)
+    - [Mario (Less)](https://cs50.harvard.edu/x/2021/psets/1/mario/less/)
+    - [Mario (More)](https://cs50.harvard.edu/x/2021/psets/1/mario/more/)
+    - [Cash](https://cs50.harvard.edu/x/2021/psets/1/cash/)
+    - [Credit](https://cs50.harvard.edu/x/2021/psets/1/credit/)
 2.  Problem Set 2
-    - Readability
-    - Caesar
-    - Substitution
+    - [Readability](https://cs50.harvard.edu/x/2021/psets/2/readability/)
+    - [Caesar](https://cs50.harvard.edu/x/2021/psets/2/caesar/)
+    - [Substitution](https://cs50.harvard.edu/x/2021/psets/2/substitution/)
 3.  Problem Set 3
-    - Plurality
-    - Runoff
-    - Tideman
+    - [Plurality](https://cs50.harvard.edu/x/2021/psets/3/plurality/)
+    - [Runoff]()
+    - [Tideman]()
 4.  Problem Set 4
     - Filter (Less)
     - Filter (More)
