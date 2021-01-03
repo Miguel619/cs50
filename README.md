@@ -1,4 +1,7 @@
-# CS50 Assignments:
+# Miggy's Intro Work 
+This repo is simply to store my quick run through Harvard's free course work.
+
+### CS50 Assignments:
 From Harvard CS50 [Open CourseWare](https://cs50.harvard.edu/x/2021/)
 
 
