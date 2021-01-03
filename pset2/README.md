@@ -1,4 +1,4 @@
-# Problem Set 1:
+# Problem Set 2:
 From Harvard CS50 [Open CourseWare](https://cs50.harvard.edu/x/2021/)
 
 
@@ -13,6 +13,20 @@ From Harvard CS50 [Open CourseWare](https://cs50.harvard.edu/x/2021/)
 
 ## [Readability](https://cs50.harvard.edu/x/2021/psets/2/readability/)
 A simple program that calculates the reading level of a certain text entered.
+```
+Text: Would you like them here or there? I would not like them here or there. I would not like them anywhere.
+```
+```
+-----[ Calculating]-------
+80 letter(s)
+21 word(s)
+3 sentence(s)
+---[per 100 words]---
+380.95 letters
+14.29 sentances
+---[Coleman-Liau index]---
+Grade 2
+```
 
 ## [Caesar](https://cs50.harvard.edu/x/2021/psets/2/caesar/)
 // TODO
