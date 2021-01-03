@@ -26,8 +26,8 @@ From Harvard CS50 [Open CourseWare](https://cs50.harvard.edu/x/2021/)
     - Credit
 2.  Problem Set 2
     - Readability
-Caesar
-Substitution
+    - Caesar
+    - Substitution
 3.  Problem Set 3
     - Plurality
     - Runoff
