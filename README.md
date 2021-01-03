@@ -17,21 +17,39 @@ From Harvard CS50 [Open CourseWare](https://cs50.harvard.edu/x/2021/)
 | Problem Set 8                | not completed | HTML,CSS,Python |
 | Problem Set 9                | not completed |       Flask     |
 
+### Link From [Harvard](https://cs50.harvard.edu/college/2020/fall/psets/)
 1.  Problem Set 1
-    - Test
-2.  Problem Set 1
-    - Test
-3.  Problem Set 1
-    - Test
+    - Hello
+    - Mario (Less)
+    - Mario (More)
+    - Cash
+    - Credit
+2.  Problem Set 2
+    - Readability
+Caesar
+Substitution
+3.  Problem Set 3
+    - Plurality
+    - Runoff
+    - Tideman
 4.  Problem Set 4
-    - Test
+    - Filter (Less)
+    - Filter (More)
+    - Recover
 5.  Problem Set 5
-    - Test
+    - Speller
 6.  Problem Set 6
-    - Test
+    - Sentimental (Hello)
+    - Sentimental (Mario Less)
+    - Sentimental (Mario More)
+    - Sentimental (Cash)
+    - Sentimental (Credit)
+    - Sentimental (Readability)
+    - DNA
 7.  Problem Set 7
-    - Test
+    - Movies
+Fiftyville
 8.  Problem Set 8
-    - Test
+    - Missing
 9.  Problem Set 9
-    - Test
+    - Finance
