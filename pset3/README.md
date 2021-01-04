@@ -4,7 +4,7 @@ From Harvard CS50 [Open CourseWare](https://cs50.harvard.edu/x/2021/)
 
 | Assignment                   |    Status     |     Language    |
 | ---------------------------- | ------------- | --------------- |
-| [Plurality](https://cs50.harvard.edu/x/2021/psets/3/plurality/)                | not completed |         C       | 
+| [Plurality](https://cs50.harvard.edu/x/2021/psets/3/plurality/)                | Done         |         C       | 
 | [Runoff](https://cs50.harvard.edu/x/2021/psets/3/runoff/)                | not completed |         C       |         
 | [Tideman](https://cs50.harvard.edu/x/2021/psets/3/tideman/)                | not completed |         C       |
 
