@@ -43,5 +43,21 @@ ciphertext: hello, world
 ```
 
 ## [Substitution](https://cs50.harvard.edu/x/2021/psets/2/substitution/)
-// TODO
+Take in a string key to encrypt plain text.
+```
+./sub YTNSHKVEFXRBAUQZCLWDMIPGJO
+plaintext: HELLO
+ciphertext: EHBBQ
+```
+```
+./sub VCHPRZGJNTLSKFBDQWAXEUYMOI
+plaintext: hello, world
+ciphertext: jrssb, ybwsp
+
+```
+Multiple Fail cases
+    -   Not 26 character key
+    -   Int in key
+    -   Repeated character
+
 
