@@ -8,7 +8,7 @@ From Harvard CS50 [Open CourseWare](https://cs50.harvard.edu/x/2021/)
 | Assignment                   |    Status     |     Language    |
 | ---------------------------- | ------------- | --------------- |
 | Problem Set 1                | Done          |         C       | 
-| Problem Set 2                | not completed |         C       |         
+| Problem Set 2                | Done         |         C       |         
 | Problem Set 3                | not completed |         C       |
 | Problem Set 4                | not completed |         C       |
 | Problem Set 5                | not completed |         C       |
