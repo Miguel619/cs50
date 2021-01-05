@@ -49,11 +49,12 @@ int main(int argc, char *argv[])
     int voter_count;
     printf("Number of voters: ");
     scanf("%i", &voter_count);
+    char name[10];
 
     // Loop over all voters
     for (int i = 0; i < voter_count; i++)
     {
-        char name[10];
+        
         printf("Vote: ");
         scanf("%s", name);
 
