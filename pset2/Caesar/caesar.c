@@ -33,8 +33,10 @@ int main(int argc, char *argv[]){
         printf("ciphertext: %s", text);
     }else if(argc > 2){
         printf("Usage: ./caesar key\n");
+        return 1;
     }else{
         printf("Usage: ./caesar key\n");
+        return 1;
     }
 }
 

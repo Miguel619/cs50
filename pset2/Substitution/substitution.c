@@ -13,15 +13,16 @@ int main(int argc, char *argv[]){
             for(int i = 0; argv[1][i]; i++){
                 char letter = argv[1][i];
                 if(isalpha(letter)){
-                    if (strchr(cipher, letter) == NULL)
+                    if (strchr(cipher, letter) != NULL)
                     {
+                        printf("Key must contain no repeated characters\n");
+                        return 1;
                         // index cipher
+                        
+                    }else{
                         letter = toupper(letter) % 65;
                         letter = letter;
                         cipher[i] = letter;
-                    }else{
-                        printf("Key must contain no repeated characters\n");
-                        return 1;
                     }
                 }else{
                     printf("Key must only contain alphabetic characters\n");
@@ -50,8 +51,10 @@ int main(int argc, char *argv[]){
             printf("ciphertext: %s", plain);
         }else{
             printf("Key must contain 26 characters.\n");
+            return 1;
         }
     }else{
         printf("Usage: ./substitution key\n");
+        return 1;
     }
 }

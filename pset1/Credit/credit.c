@@ -42,7 +42,7 @@ int main(){
             if (sd == 4 || sd == 7){
                 code = auth(num, 15);
                 if(code % 10 == 0){
-                    printf("AMERICAN EXPRESS\n");
+                    printf("AMEX\n");
                     return 0;
                 }
                 
@@ -60,7 +60,7 @@ int main(){
         }
     }
     printf("INVALID\n");
-    return 1;
+    return 0;
 
 }
 
