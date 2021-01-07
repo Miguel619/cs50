@@ -6,7 +6,7 @@ From Harvard CS50 [Open CourseWare](https://cs50.harvard.edu/x/2021/)
 | ---------------------------- | ------------- | --------------- |
 | [Plurality](https://cs50.harvard.edu/x/2021/psets/3/plurality/)                | Done         |         C       | 
 | [Runoff](https://cs50.harvard.edu/x/2021/psets/3/runoff/)                | Done         |         C       |         
-| [Tideman](https://cs50.harvard.edu/x/2021/psets/3/tideman/)                | not completed |         C       |
+| [Tideman](https://cs50.harvard.edu/x/2021/psets/3/tideman/)                | Done         |         C       |
 
 
 
@@ -24,7 +24,59 @@ Vote: Alice
 Alice
 ```
 ## [Runoff](https://cs50.harvard.edu/x/2021/psets/3/runoff/)
-// TODO
+An election programs that only declares a winner if they recieve more than half the votes
+If no one recieves more than half the votes the person with the least votes is eliminated and their vote goes to the candidate who was second preference.
+If all candidates get the same amount of votes, the election is declared a tie.
+```
+./runoff Alice Bob Charlie
+Number of voters: 5
+Rank 1: Alice
+Rank 2: Charlie
+Rank 3: Bob
+
+Rank 1: Alice
+Rank 2: Charlie
+Rank 3: Bob
+
+Rank 1: Bob
+Rank 2: Charlie
+Rank 3: Alice
+
+Rank 1: Bob
+Rank 2: Charlie
+Rank 3: Alice
+
+Rank 1: Charlie
+Rank 2: Alice
+Rank 3: Bob
+
+Alice
+```
 ## [Tideman](https://cs50.harvard.edu/x/2021/psets/3/tideman/)
-// TODO
+This is a more complicated ranked pairs election.
+```
+./tideman Alice Bob Charlie
+Number of voters: 5
+Rank 1: Alice
+Rank 2: Charlie
+Rank 3: Bob
+
+Rank 1: Alice
+Rank 2: Charlie
+Rank 3: Bob
+
+Rank 1: Bob
+Rank 2: Charlie
+Rank 3: Alice
+
+Rank 1: Bob
+Rank 2: Charlie
+Rank 3: Alice
+
+Rank 1: Charlie
+Rank 2: Alice
+Rank 3: Bob
+
+Charlie
+```
 
