@@ -4,22 +4,17 @@ From Harvard CS50 [Open CourseWare](https://cs50.harvard.edu/x/2021/)
 
 | Assignment                   |    Status     |     Language    |
 | ---------------------------- | ------------- | --------------- |
-| [Plurality](https://cs50.harvard.edu/x/2021/psets/3/plurality/)                | not completed |         C       | 
-| [Runoff](https://cs50.harvard.edu/x/2021/psets/3/runoff/)                | not completed |         C       |         
-| [Tideman](https://cs50.harvard.edu/x/2021/psets/3/tideman/)                | not completed |         C       |
+| [Filter(Less)](https://cs50.harvard.edu/x/2021/psets/4/filter/less/)                | not completed |         C       | 
+| [Filter(More)](https://cs50.harvard.edu/x/2021/psets/4/filter/more/)                | not completed |         C       |         
+| [Recover](https://cs50.harvard.edu/x/2021/psets/4/recover/)                | not completed |         C       |
 
 
 
 ### Link From [Harvard](https://cs50.harvard.edu/college/2020/fall/psets/)
 
-## [Plurality](https://cs50.harvard.edu/x/2021/psets/3/plurality/)
+## [Filter(Less)](https://cs50.harvard.edu/x/2021/psets/4/filter/less/)
 // TODO
-## [Runoff](https://cs50.harvard.edu/x/2021/psets/3/runoff/)
+## [Filter(More)](https://cs50.harvard.edu/x/2021/psets/4/filter/more/)
 // TODO
-## [Tideman](https://cs50.harvard.edu/x/2021/psets/3/tideman/)
+## [Recover](https://cs50.harvard.edu/x/2021/psets/4/recover/)
 // TODO
-
-4.  Problem Set 4
-    - [Filter(Less)](https://cs50.harvard.edu/x/2021/psets/4/filter/less/)
-    - [Filter(More)](https://cs50.harvard.edu/x/2021/psets/4/filter/more/)
-    - [Recover](https://cs50.harvard.edu/x/2021/psets/4/recover/)
