@@ -12,17 +12,20 @@ int main(int argc, char *argv[]){
             // save key
             for(int i = 0; argv[1][i]; i++){
                 char letter = argv[1][i];
-                if(isalpha(letter)){
-                    if (strchr(cipher, letter) != NULL)
-                    {
-                        printf("Key must contain no repeated characters\n");
+                for(int k = i + 1; argv[1][k]; k++){
+                    if(letter == argv[1][k]){
+                        printf("No Duplicates\n");
                         return 1;
-                        // index cipher
-                        
-                    }else{
+                    }
+                }
+                if(isalpha(letter)){
+                    if (strchr(cipher, letter) == NULL)
+                    {
                         letter = toupper(letter) % 65;
                         letter = letter;
                         cipher[i] = letter;
+                        // index cipher
+                        
                     }
                 }else{
                     printf("Key must only contain alphabetic characters\n");
