@@ -4,20 +4,13 @@ From Harvard CS50 [Open CourseWare](https://cs50.harvard.edu/x/2021/)
 
 | Assignment                   |    Status     |     Language    |
 | ---------------------------- | ------------- | --------------- |
-| [Plurality](https://cs50.harvard.edu/x/2021/psets/3/plurality/)                | not completed |         C       | 
-| [Runoff](https://cs50.harvard.edu/x/2021/psets/3/runoff/)                | not completed |         C       |         
-| [Tideman](https://cs50.harvard.edu/x/2021/psets/3/tideman/)                | not completed |         C       |
+| [Speller](https://cs50.harvard.edu/x/2021/psets/5/speller/)                | Done         |         C       | 
+
 
 
 
 ### Link From [Harvard](https://cs50.harvard.edu/college/2020/fall/psets/)
 
-## [Plurality](https://cs50.harvard.edu/x/2021/psets/3/plurality/)
-// TODO
-## [Runoff](https://cs50.harvard.edu/x/2021/psets/3/runoff/)
-// TODO
-## [Tideman](https://cs50.harvard.edu/x/2021/psets/3/tideman/)
-// TODO
+## [Speller](https://cs50.harvard.edu/x/2021/psets/5/speller/)
+A spell checker using a dictionary of words.  Our program checks if words are in the dictionary, if they are not, they are mispelled.
 
-5.  Problem Set 5
-    - [Speller](https://cs50.harvard.edu/x/2021/psets/5/speller/)
