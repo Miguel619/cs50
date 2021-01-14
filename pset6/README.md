@@ -17,11 +17,11 @@ From Harvard CS50 [Open CourseWare](https://cs50.harvard.edu/x/2021/)
 ### Link From [Harvard](https://cs50.harvard.edu/college/2020/fall/psets/)
 
 ## [Sentimental (Hello)](https://cs50.harvard.edu/x/2021/psets/6/hello/)
-// TODO
+Same as C programing asking the user for their name
 ## [Sentimental (Mario Less)](https://cs50.harvard.edu/x/2021/psets/6/mario/less/)
-// TODO
+A triangle of heigh inputed by the user
 ## [Sentimental (Mario More)](https://cs50.harvard.edu/x/2021/psets/6/mario/more/)
-// TODO
+Two reflected triangled of height inputed by the user
 ## [Sentimental (Cash)](https://cs50.harvard.edu/x/2021/psets/6/cash/)
 // TODO
 ## [Sentimental (Credit)](https://cs50.harvard.edu/x/2021/psets/6/credit/)
