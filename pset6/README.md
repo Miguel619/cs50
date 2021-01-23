@@ -2,15 +2,15 @@
 
 From Harvard CS50 [Open CourseWare](https://cs50.harvard.edu/x/2021/)
 
-| Assignment                                                                        | Status        | Language |
-| --------------------------------------------------------------------------------- | ------------- | -------- |
-| [Sentimental (Hello)](https://cs50.harvard.edu/x/2021/psets/6/hello/)             | not completed | Python   |
-| [Sentimental (Mario Less)](https://cs50.harvard.edu/x/2021/psets/6/mario/less/)   | not completed | Python   |
-| [Sentimental (Mario More)](https://cs50.harvard.edu/x/2021/psets/6/mario/more/)   | not completed | Python   |
-| [Sentimental (Cash)](https://cs50.harvard.edu/x/2021/psets/6/cash/)               | not completed | Python   |
-| [Sentimental (Credit)](https://cs50.harvard.edu/x/2021/psets/6/credit/)           | not completed | Python   |
-| [Sentimental (Readability)](https://cs50.harvard.edu/x/2021/psets/6/readability/) | not completed | Python   |
-| [DNA](https://cs50.harvard.edu/x/2021/psets/6/dna/)                               | not completed | Python   |
+| Assignment                                                                        | Status | Language |
+| --------------------------------------------------------------------------------- | ------ | -------- |
+| [Sentimental (Hello)](https://cs50.harvard.edu/x/2021/psets/6/hello/)             | Done   | Python   |
+| [Sentimental (Mario Less)](https://cs50.harvard.edu/x/2021/psets/6/mario/less/)   | Done   | Python   |
+| [Sentimental (Mario More)](https://cs50.harvard.edu/x/2021/psets/6/mario/more/)   | Done   | Python   |
+| [Sentimental (Cash)](https://cs50.harvard.edu/x/2021/psets/6/cash/)               | Done   | Python   |
+| [Sentimental (Credit)](https://cs50.harvard.edu/x/2021/psets/6/credit/)           | Done   | Python   |
+| [Sentimental (Readability)](https://cs50.harvard.edu/x/2021/psets/6/readability/) | Done   | Python   |
+| [DNA](https://cs50.harvard.edu/x/2021/psets/6/dna/)                               | Done   | Python   |
 
 ### Link From [Harvard](https://cs50.harvard.edu/college/2020/fall/psets/)
 
