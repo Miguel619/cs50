@@ -3,21 +3,17 @@ import csv
 
 def main():
     if len(argv) == 3:
-        # argv[1] : csv
-        # argv[2] : sequence
+        # argv[1] : csv containing peoples dna info
+        # argv[2] : sequence of dna we are testing for
 
         # Open csv and text file (csv reader and DictReader) (sys.argv command line arg)
         cvsReader = csv.DictReader(open(argv[1], "r"))
-        
 
         # text file open(file) f.read()
         f = open(argv[2], "r")
         seq = f.read()
 
-        
         # compute longest run for each STR len(s) s[i:j]
-        
-
         """
         - Compute STR repeates for each position
         - Keep checking substrings while repeat
